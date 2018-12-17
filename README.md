@@ -1,2 +1,2 @@
 # Projectile-motion
-Simulates a trajectory of projectile
+Simulates a trajectory of a projectile
